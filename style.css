@@ -440,7 +440,7 @@ blockquote{
   outline:none;border-color:var(--accent);
 }
 .fg input::placeholder,.fg textarea::placeholder{color:rgba(242,237,232,0.18);}
-.fg select{appearance:none;cursor:pointer;background:transparent;color:var(--muted);}
+.fg select{appearance:none;cursor:pointer;background:transparent;color:grey;}
 .form-row{display:grid;grid-template-columns:1fr 1fr;gap:2rem;}
 .btn-send{
   background:none;border:none;
